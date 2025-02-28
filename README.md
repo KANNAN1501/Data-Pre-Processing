@@ -6,8 +6,8 @@ any issues related to outliers and missing values.
 Dataset Link:
 https://raw.githubusercontent.com/ArchanaInsights/Datasets/main/diabetes.csv
 
-##🔧 Preprocessing Steps
-###1️⃣ Data Cleaning
+🔧 Preprocessing Steps
+1️⃣ Data Cleaning
 ✔ Rename columns for clarity (e.g., No_Pation → Patients).
 ✔ Check and correct unique values in categorical columns (Gender, CLASS).
 ✔ Generate statistical summaries of numerical data.
