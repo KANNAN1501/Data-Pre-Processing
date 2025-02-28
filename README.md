@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/ArchanaInsights/Datasets/main/diabetes.csv
 
 ## 🔧 Preprocessing Steps 
 
-1️⃣ Data Cleaning 
+# 1️⃣ Data Cleaning 
 
 ✔ Rename columns for clarity (e.g., No_Pation → Patients).
 ✔ Check and correct unique values in categorical columns (Gender, CLASS).
@@ -22,6 +22,6 @@ Filter: Cr (>99.5th percentile), Urea (>99.9th percentile).
 Remove: Extreme outliers in lipid-related columns (LDL, HDL, etc.).
 ✔ Remove duplicate rows.
 
-2️⃣ Data Transformation
+# 2️⃣ Data Transformation
 ✔ Feature Engineering: Encode categorical variables (e.g., Gender).
 ✔ Feature Scaling: Standardize or normalize numerical columns (AGE, BMI, Cr) for consistency.
